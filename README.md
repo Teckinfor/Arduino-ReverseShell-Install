@@ -10,12 +10,12 @@ Thank you for waiting.
 
 # HOW TO USE
 
-- change the IP address in the script
-- install the script on your Arduino Leonardo
-- install NetCat on you computer if it's not already installed on your computer. (https://github.com/atomicobject/psinfo/tree/master/tools/nc111nt)
-- run CMD with administrator's privilege and go to the NetCat's folder
-- write "nc -lvnp 13337" ("13337" is the port; you can change this one for other but you'll need to change the port in the script too)
-- run you Arduino Leonardo on the computer of your victim (it could be the same computer of the "hacker")
+1. Change the IP address in the script
+2. Install the script on your Arduino Leonardo
+3. Install NetCat on you computer if it's not already installed on your computer. (https://github.com/atomicobject/psinfo/tree/master/tools/nc111nt)
+4. Run CMD with administrator's privilege and go to the NetCat's folder
+5. Write "nc -lvnp 13337" ("13337" is the port; you can change this one for other but you'll need to change the port in the script too)
+6. Run you Arduino Leonardo on the computer of your victim (it could be the same computer of the "hacker")
 
 # Terms of use
 
