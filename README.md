@@ -19,10 +19,10 @@ Thank you for waiting.
 
 # Terms of use
 
-This script was created for educational purposes only
-It is used to demonstrate the danger of leaving your PC on, when not in use.
-Hacking is illegal and I am in no way responsible for your actions.
-THANK YOU
+- This script was created for educational purposes only.
+- It is used to demonstrate the danger of leaving your PC on, when not in use.
+- Hacking is illegal and I am in no way responsible for your actions.
+- THANK YOU
 
 ~~~
 Created by Teckinfor
