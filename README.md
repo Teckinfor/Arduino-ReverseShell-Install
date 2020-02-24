@@ -19,7 +19,8 @@ It is used to demonstrate the danger of leaving your PC on, when not in use.
 Hacking is illegal and I am in no way responsible for your actions.
 THANK YOU
 
-
-~~~~Created by Teckinfor
-~~~~~~~~~~~~~~24/02/2020
+~~~
+Created by Teckinfor
+24/02/2020
 https://github.com/Teckinfor/Attack_Arduino_Leonardo-ReverseShell_Install
+~~~
